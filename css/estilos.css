@@ -39,3 +39,10 @@ body
     margin: 1 auto;
     border: 1% solid black;
 }
+#footer{
+    background: tomato;
+    color: white;
+    text-align: center;
+    height: 5%;
+    padding: 1%;
+}
