@@ -13,6 +13,7 @@ body
     border: 1px solid black;
 }
 #cabezera{
+    background: url(./imagenes/perrito.jpg);
     width: 100%;
     color: rgb(0, 138, 23);
     background-color: black;
@@ -21,4 +22,14 @@ body
     text-align: center;
     border: 3px solid beige;
     height: 20%;
+}
+
+#contenedor_1{
+    width: 70%;
+    color: violet;
+    background-color: yellow;
+    padding: 1em;
+    text-align: center;
+    margin: 1 auto;
+    border: 1% solid black;
 }
